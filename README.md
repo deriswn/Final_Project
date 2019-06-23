@@ -19,9 +19,9 @@ Anggota Kelompok:
 
 Kami menggunakan tools :
 
-1.notepad++ v7.5.4
+1. notepad++ v7.5.4
 
-2.cpp.sh (online c++ compiler)
+2. cpp.sh (online c++ compiler)
   - http://cpp.sh/6f4en (link untuk langsung compile program secara online)
 
 Kami tidak menggunakan algoritma dalam program ini
