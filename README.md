@@ -18,7 +18,9 @@ Anggota Kelompok:
 3. Deris Wahyu N (17.83.0058)
 
 Kami menggunakan tools :
+
 1.notepad++ v7.5.4
+
 2.cpp.sh (online c++ compiler)
   - http://cpp.sh/6f4en (link untuk langsung compile program secara online)
 
